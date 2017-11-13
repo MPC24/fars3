@@ -45,7 +45,6 @@ fars_read <- function(filename) {
 make_filename <- function(year) {
   year <- as.integer(year)
   file <- sprintf("accident_%d.csv.bz2", year)
-  system.file("extdata", file, package = "fars3")
 }
 
 #' Reads month and year from accident files
