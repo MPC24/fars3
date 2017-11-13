@@ -17,7 +17,7 @@ library(maps)
 
 ##Package Description
 
-This is a simple package composed of five functions that work specifically with Fatality Analysis Reporting System accident data. You load, summarize and map data for fatel accidents in the US for years 2013-2015. 
+This is a simple package composed of five functions that work specifically with Fatality Analysis Reporting System accident data. You load, summarize and map data for fatel accidents in the US for years 2013-2015. f
 
 
 ##Function Instructions for Package
